@@ -1,0 +1,7 @@
+git add .
+git commit -m "Added arrays and loops"
+git add .
+git commit -m "Wrote and tested functions"
+git add .
+git commit -m "Finalized practice problem 10"
+git push
